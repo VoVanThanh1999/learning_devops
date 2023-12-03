@@ -1,0 +1,6 @@
+Request:
+1) Create database postgresql
+2) Create two project with spring boot => Microservice
+3) Containerization from presime to aws (2 server)
+Tech:
+1) Java, Spring boot, Postgresl, Docker, Aws
