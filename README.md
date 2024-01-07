@@ -15,5 +15,5 @@ Repository này chứa ví dụ và bài thực hành của tôi về Docker, Ku
 
 - **Spring Microservices**: Chạy các dự án microservices với Maven trong thư mục `learning_devops/04. Practice/02. Imp/01.Source/`.
 
-Chúc bạn có những trải nghiệm thực hành tuyệt vời!
+Cảm ơn bạn đã quan tâm !
 
